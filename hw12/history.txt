@@ -1,0 +1,177 @@
+    1  cd git
+    2  cd js
+    3  git init
+    4  git add README.md
+    5  echo "# js" >> README.md
+    6  ls
+    7  git commit -m "first commit"
+    8  git branch -M main
+    9  git remote add origin git@github.com:olgazakre/js.git
+   10  git push -u origin main
+   11  ls
+   12  cd todo-list
+   13  git push -u origin main
+   14  git push -u origin main
+   15  cd js
+   16  ls
+   17  ls
+   18  git push -u origin main
+   19  git pusch
+   20  echo "# js" >> README.md
+   21  git add README.md
+   22  git commit -m "first commit"
+   23  git remote add origin git@github.com:olgazakre/todo-list.js.git
+   24  git push -u origin main
+   25  cd js
+   26  sd dit
+   27  cd git
+   28  cd js
+   29  git push -u origin main
+   30  cd hw12
+   31  cd git
+   32  cd hw12
+   33  git clone <https://github.com/olgazakre/hw12>
+   34  git clone https://github.com/olgazakre/hw12
+   35  git checkout -b feature
+   36  cd hw12
+   37  git checkout -b feature
+   38  git add README.md
+   39  git add ..
+   40  git add README.md .gitignore
+   41  echo "# Project Title" > README.md
+   42  echo "# Ignore logs" >> .gitignore
+   43  git add README.md .gitignore
+   44  git commit -m "Add README and update .gitignore"
+   45  git commit -m "Add README and update .gitignore"
+   46  git push origin feature
+   47  git commit -m "Add README and update .gitignore"
+   48  git push origin feature
+   49  cd git
+   50  cd hw12
+   51  git init
+   52  ls
+   53  cd git
+   54  cd hw12
+   55  echo "# hw12" >> README.md
+   56  echo "# hw12" >> README.md
+   57  git init
+   58  git add README.md
+   59  git commit -m "первый коммит"
+   60  git branch -M main
+   61  git remote add origin https://github.com/olgazakre/hw12.git
+   62  git push -u origin main
+   63  ls
+   64  echo .gitignor
+   65  ls
+   66  git clone https://github.com/olgazakre/hw12
+   67  git checkout -b feature
+   68  echo "# Project Title" > README.md
+   69  echo "# Ignore logs" >> .gitignore
+   70  ls
+   71  git add README.md .gitignore
+   72  git commit -m "Add README and update .gitignore"
+   73  git push origin feature
+   74  olgazakre
+   75  git push origin feature
+   76  git commit --amend -m "Add README and update .gitignore - ammend"
+   77  cd git
+   78  rm hw12
+   79  rm -rf hw12
+   80  rm hw12
+   81  cd hw12
+   82  rm -rf .git
+   83  cd..
+   84  cd ./
+   85  cd ../
+   86  rm hw12
+   87  cd hw12
+   88  ls -lah
+   89  rm -rf .git*
+   90  ls -lah
+   91  cd my-git-project
+   92  cd my-git-project
+   93  cd git
+   94  mkdir my-git-project
+   95  cd my-git-project
+   96  echo .gitignore
+   97  ls
+   98  echo >> .gitignore
+   99  ls
+  100  echo "# my-git-project" >> README.md
+  101  git init
+  102  git add README.md
+  103  git commit -m "first commit"
+  104  git branch -M main
+  105  git remote add origin https://github.com/olgazakre/my-git-project.git
+  106  git push -u origin main
+  107  git push -u origin main
+  108  git push -u origin main
+  109  git clone <https://github.com/olgazakre/hw12>
+  110  cd git
+  111  cd ../
+  112  cd h12
+  113  cd hw12
+  114  cd git
+  115  git clone </github.com/olgazakre/hw12>
+  116  git clone /github.com/olgazakre/hw12
+  117  git clone https://github.com/olgazakre/hw12
+  118  cd hw12
+  119  git checkout -b feature
+  120  echo "# My Git Project" >> README.md
+  121  echo "# Ignore logs" >> .gitignore
+  122  git add README.md .gitignore
+  123  git commit -m "Add README and update .gitignore"
+  124  git push origin feature
+  125  git commit --amend -m "Add README and update .gitignore - amend"
+  126  git push origin feature --force
+  127  git checkout main
+  128  git merge feature
+  129  git push origin main
+  130  history > history.txt
+  131  ls
+  132  git add history.txt
+  133  git commit -m "Add command history"
+  134  git push origin main
+  135  ls
+  136  git add history.txt
+  137  git commit -m "Add command history"
+  138  git push origin main
+  139   git config --global user.email "olga.zakrevska1980@gmail.com"
+  140   git config --global user.name "olgazakre"
+  141  git status
+  142  git commit -m "git hw12"
+  143  git push original main
+  144  git remote -v
+  145  git remote set-url origin git@github.com:olgazakre/hw12.git
+  146  git remote -v
+  147  git push original main
+  148  git status
+  149  ls -al ~/.ssh
+  150  cat ~/.ssh/id_rsa.pub
+  151  cd..
+  152  cd ..
+  153  git status
+  154  git clone [200~
+  155  ICH@DESKTOP-SL6RVM4 MINGW64 ~/git/hw12 (main)
+  156  git clone git@github.com:olgazakre/test1.git
+  157  cd test1
+  158  touch test
+  159  git add --all
+  160  git comit -m "test"
+  161  git commit -m "test"
+  162  git push -u origin main
+  163  cd ..
+  164  git clone git@github.com:olgazakre/hw12.git
+  165  cd hw12
+  166  git checkout -b feature
+  167  echo "# My Git Project" > README.md
+  168  echo "# Ignore logs" >> .gitignore
+  169  git add README.md .gitignore
+  170  git commit -m "Add README and update .gitignore"
+  171  git push origin feature
+  172  git commit --amend -m "Add README and update .gitignore - amend"
+  173  git push origin feature --force
+  174  git checkout main
+  175  git merge feature
+  176  git push origin main
+  177  history > history.txt
